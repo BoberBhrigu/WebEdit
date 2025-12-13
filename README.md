@@ -1,32 +1,58 @@
-📋 Список обновлений для v4.0:
-1. Расширенный Редактор Текста:
-✅ Размер шрифта до 128px (сейчас до 36px)
-✅ Вращение текста (rotate) на любой угол
-✅ Перемещение по координатам X, Y
-✅ Дополнительные стили (тень, обводка, градиент)
-2. Улучшенное Удаление:
-✅ Расширенное меню удаления с списком всех элементов
-✅ Выбор нескольких объектов для удаления
-✅ Защита от удаления меню WEB EDIT
-✅ Фильтрация элементов (по тегу, классу, ID)
-3. Исправления HTML/CSS/JS редакторов:
-✅ Игнорирование кликов на меню WEB EDIT
-✅ Защита от случайного редактирования панели
-4. Настройки (Settings):
-✅ Выбор языка (RU/EN)
-✅ Биндинг клавиш для функций (например Delete для удаления)
-✅ Настройка горячих клавиш для каждой функции
-✅ Режим оптимизации:
-Undo только 30 шагов (вместо 100)
-Компактное меню
-Оптимизация производительности
-5. Больше команд в Elite Menu:
-✅ createBtn - создать кнопку
-✅ createInput - создать поле ввода
-✅ createImage - вставить картинку
-✅ createVideo - вставить видео
-✅ clone [selector] - клонировать элемент
-✅ hide [selector] - скрыть элемент
-✅ show [selector] - показать элемент
-✅ move [selector] x y - переместить элемент
-✅ resize [selector] w h - изменить размер
+# 📋 WEB EDIT v4.0 — Planned Updates
+
+---
+
+## 1. Enhanced Text Editor
+
+- ✅ Font size up to 128px (currently limited to 36px)
+- ✅ Text rotation at any angle
+- ✅ Position control via X, Y coordinates
+- ✅ Additional styles (shadow, outline, gradient)
+
+---
+
+## 2. Improved Deletion System
+
+- ✅ Extended delete menu with list of all page elements
+- ✅ Multi-select for batch deletion
+- ✅ Protection from deleting WEB EDIT menu
+- ✅ Element filtering (by tag, class, ID)
+
+---
+
+## 3. HTML/CSS/JS Editor Fixes
+
+- ✅ Ignore clicks on WEB EDIT menu
+- ✅ Protection from accidental panel editing
+
+---
+
+## 4. Settings Panel
+
+- ✅ Language selection (RU/EN)
+- ✅ Key binding for functions (e.g., Delete key for deletion mode)
+- ✅ Custom hotkeys for each function
+- ✅ Optimization mode:
+  - Undo limited to 30 steps (instead of 100)
+  - Compact menu layout
+  - Performance optimization
+
+---
+
+## 5. More Elite Menu Commands
+
+- ✅ createBtn - create button
+- ✅ createInput - create input field
+- ✅ createImage - insert image
+- ✅ createVideo - insert video
+- ✅ clone [selector] - clone element
+- ✅ hide [selector] - hide element
+- ✅ show [selector] - show element
+- ✅ move [selector] x y - move element
+- ✅ resize [selector] w h - resize element
+
+---
+
+Status: 🚧 In Development
+
+Expected Release: Q1 2025
