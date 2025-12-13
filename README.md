@@ -55,4 +55,4 @@
 
 Status: 🚧 In Development
 
-Expected Release: 14Dec pre relase 2025, relase 28 Dec 2025
+Expected Release: 13Dec 17:00 pre relase 2025, relase 28 Dec 2025
