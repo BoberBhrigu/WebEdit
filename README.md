@@ -1,4 +1,4 @@
-# 📋 WEB EDIT v4.0 — testing Updat
+# 📋 WEB EDIT v4.0 — testing the Update
 
 ---
 
