@@ -1,4 +1,4 @@
-# 📋 WEB EDIT v4.0 — testing the Update
+# 📋 WEB EDIT v4.0 — pre relase
 
 ---
 
@@ -50,9 +50,3 @@
 - ✅ show [selector] - show element
 - ✅ move [selector] x y - move element
 - ✅ resize [selector] w h - resize element
-
----
-
-Status: 🚧 In Development
-
-Expected Release: 13Dec 17:00 pre relase 2025, relase 28 Dec 2025
